@@ -16,3 +16,12 @@
 [submodule "libs/assert"]
 	path = libs/assert
 	url = https://github.com/boostorg/assert.git
+[submodule "libs/container"]
+	path = libs/container
+	url = https://github.com/boostorg/container.git
+[submodule "libs/intrusive"]
+	path = libs/intrusive
+	url = https://github.com/boostorg/intrusive.git
+[submodule "libs/move"]
+	path = libs/move
+	url = https://github.com/boostorg/move.git
