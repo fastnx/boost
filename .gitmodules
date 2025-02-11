@@ -25,3 +25,6 @@
 [submodule "libs/move"]
 	path = libs/move
 	url = https://github.com/boostorg/move.git
+[submodule "libs/align"]
+	path = libs/align
+	url = https://github.com/boostorg/align.git
