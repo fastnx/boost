@@ -115,3 +115,18 @@
 [submodule "libs/functional"]
 	path = libs/functional
 	url = https://github.com/boostorg/functional.git
+[submodule "libs/program_options"]
+	path = libs/program_options
+	url = https://github.com/boostorg/program_options.git
+[submodule "libs/any"]
+	path = libs/any
+	url = https://github.com/boostorg/any.git
+[submodule "libs/type_index"]
+	path = libs/type_index
+	url = https://github.com/boostorg/type_index.git
+[submodule "libs/lexical_cast"]
+	path = libs/lexical_cast
+	url = https://github.com/boostorg/lexical_cast.git
+[submodule "libs/tokenizer"]
+	path = libs/tokenizer
+	url = https://github.com/boostorg/tokenizer.git
