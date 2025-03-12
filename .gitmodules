@@ -130,3 +130,9 @@
 [submodule "libs/tokenizer"]
 	path = libs/tokenizer
 	url = https://github.com/boostorg/tokenizer.git
+[submodule "libs/interprocess"]
+	path = libs/interprocess
+	url = https://github.com/boostorg/interprocess.git
+[submodule "libs/winapi"]
+	path = libs/winapi
+	url = https://github.com/boostorg/winapi.git
