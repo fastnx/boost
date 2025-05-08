@@ -136,3 +136,30 @@
 [submodule "libs/winapi"]
 	path = libs/winapi
 	url = https://github.com/boostorg/winapi.git
+[submodule "libs/fiber"]
+	path = libs/fiber
+	url = https://github.com/boostorg/fiber.git
+[submodule "libs/context"]
+	path = libs/context
+	url = https://github.com/boostorg/context.git
+[submodule "libs/pool"]
+	path = libs/pool
+	url = https://github.com/boostorg/pool.git
+[submodule "libs/filesystem"]
+	path = libs/filesystem
+	url = https://github.com/boostorg/filesystem.git
+[submodule "libs/format"]
+	path = libs/format
+	url = https://github.com/boostorg/format.git
+[submodule "libs/system"]
+	path = libs/system
+	url = https://github.com/boostorg/system.git
+[submodule "libs/integer"]
+	path = libs/integer
+	url = https://github.com/boostorg/integer.git
+[submodule "libs/scope"]
+	path = libs/scope
+	url = https://github.com/boostorg/scope.git
+[submodule "libs/variant2"]
+	path = libs/variant2
+	url = https://github.com/boostorg/variant2.git
